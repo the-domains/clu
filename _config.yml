@@ -1,0 +1,28 @@
+name: clu
+favicon: null
+layout_spectrum: 0.1381137422285974
+typography_spectrum: 0.30834546964615583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3063431018963456
+  lightness: 0.31297792471013963
+  saturation: 0.9878761926665902
+  rhythmicContrast: 0.36889828951098025
+purpose: []
